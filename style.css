@@ -114,7 +114,7 @@ nav li a:hover {
     }
 
     .nav-menu.active {
-        right: 0;
+        left: 0;
     }
 
     .nav-menu li {
@@ -779,4 +779,5 @@ img {
 
 .close:hover {
     color: #d4a373;
+
 }
